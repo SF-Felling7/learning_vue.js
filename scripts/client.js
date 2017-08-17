@@ -1,6 +1,6 @@
-var demo = new Vue({
+new Vue({
   el:'#app',
   data:{
-    title:'Hello World!'
+    message:'Hello World!'
   }
 });
