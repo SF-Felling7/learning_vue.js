@@ -3,4 +3,5 @@ p {
   font-size: 24px;
   text-shadow: black;
   border: red;
+  border-width: thin;
 }
