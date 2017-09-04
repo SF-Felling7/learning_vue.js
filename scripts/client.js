@@ -1,6 +1,7 @@
 new Vue({
   el:'#app',
   data:{
-    age: 27
+    firstName: 'Sean',
+    lastName: 'Felling'
   }
 });
