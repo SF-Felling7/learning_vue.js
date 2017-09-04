@@ -8,9 +8,9 @@
   <body>
 
     <div id="app">
-    <p> {{ message }} </p><br>
+    <p> {{ age > 39 ? 'Old' : 'Young' }} </p><br>
 
-    <input type="text"  v-model="message">
+    <input type="text"  v-model="age">
     </div>
 
     <script src="./vendors/vue.min.js" charset="utf-8"></script>
